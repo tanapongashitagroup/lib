@@ -1,0 +1,19 @@
+{
+    "name": "library_f",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.15.4",
+        "mailgun": "^0.5.0",
+        "mongoose": "^4.11.8",
+        "passport": "^0.4.0",
+        "passport-jwt": "^3.0.0",
+        "socket.io": "^2.0.3"
+    }
+}
